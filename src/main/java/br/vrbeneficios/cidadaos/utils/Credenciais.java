@@ -4,7 +4,7 @@ import java.time.Instant;
 import java.util.Date;
 
 public class Credenciais {
-    private static String senha = "carryon321";
+    private static String senha = "root";
     private static String usuario = "root";
     private static String url = "jdbc:mysql://localhost/cidadaos?useTimezone=true&serverTimezone=UTC";
 
